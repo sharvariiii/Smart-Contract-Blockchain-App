@@ -1,16 +1,8 @@
-# uc
+# Smart Contract Blockchain App
 
-A new Flutter project.
+A Flutter project
 
-## Getting Started
+## Final Output:
+![UC_Screenshot](https://github.com/user-attachments/assets/4ade55c5-da88-4d9f-a8b0-4e2f2ed1c71a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
